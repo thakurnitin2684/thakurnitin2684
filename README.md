@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I am a Software Developer. Proficient in android development. 
+I'm a <b>Software Engineer</b> <br>
+A good problem solver. Deeply interested in development. Eager to learn.
 
 <b> To see my live projects, check out [my-profile](https://thakurnitin2684.github.io/my-profile/) </b>
 
